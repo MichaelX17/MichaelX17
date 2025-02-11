@@ -18,153 +18,238 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<h1 align="center">Hi , I'm Miguel Farfan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="mailto:mfpersonal777@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/MichaelX17"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.upwork.com/freelancers/~01ec6baeb1cb86e1ef"><img src="https://img.shields.io/badge/UpWork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork"/></a>
-	<a href="https://www.workana.com/freelancer/9da9f40c57fe3491650d3ddfdc37af91"><img src="https://img.shields.io/badge/Workana-%2300AEF0.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
+<br>
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:mfpersonal777@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MichaelX17"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </td>
+      <td align="center">
+        <a href="https://www.upwork.com/freelancers/~01ec6baeb1cb86e1ef"><img src="https://img.shields.io/badge/UpWork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork"/></a>
+      </td>
+      <td align="center">
+        <a href="https://www.workana.com/freelancer/9da9f40c57fe3491650d3ddfdc37af91"><img src="https://img.shields.io/badge/Workana-%2300AEF0.svg?style=for-the-badge&logo=workana&logoColor=white" alt="Workana"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px> </picture> Programming Languages
 
-<p align="center"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+          <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+          <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank"> 
+          <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org" target="_blank">
+          <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px> </picture> Frontend Development
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://vuejs.org/" target="_blank">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://reactnative.dev/" target="_blank">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.w3.org/html/" target="_blank"> 
+          <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org/" target="_blank">
+          <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://angular.io/" target="_blank">
+          <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://vuejs.org/" target="_blank">
+          <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reactnative.dev/" target="_blank">
+          <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://getbootstrap.com/" target="_blank">
+          <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 💻 Backend Development
 
-<p align="center">
-  &emsp;
-  <a href="https://nestjs.com/" target="_blank">
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://nestjs.com/" target="_blank">
+          <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.php.net/" target="_blank">
+          <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://laravel.com/" target="_blank">
+          <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+          <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px> </picture> Software & Tools
 
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Deepseek" src="https://img.shields.io/badge/Deepseek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#"><img alt="Deepseek" src="https://img.shields.io/badge/Deepseek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px> </picture> IDEs
 
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%234479A1.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-%234479A1.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture> Operating Systems
 
-<p align="center">
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/ZorinOS-%2300A8E1?style=for-the-badge&logo=zorin&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/ZorinOS-%2300A8E1?style=for-the-badge&logo=zorin&logoColor=white"></a>
+      </td>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
